@@ -4,5 +4,6 @@ It doesn’t use standard cryptography libraries for encryption but instead perf
 
 Syntax:
 
-ByteMorph_1.0.ps1 e/d file/folder
+ByteMorph_2.0.ps1 [-f] [-debug] e/d file/folder
+
 
